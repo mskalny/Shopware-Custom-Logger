@@ -1,12 +1,11 @@
 <?php
 /**
  * @category  CustomLogger
- * @package   SwagCustomLogger
+ * @package   MskalnyCustomLogger
  * @author    Maciej Skalny <mjskalny@gmail.com>
- * @copyright 2019 Copyright (c) mskalny
  */
 
-namespace SwagCustomLogger;
+namespace MskalnyCustomLogger;
 
 use Shopware\Components\Plugin;
 

@@ -4,14 +4,13 @@
  * @category  CustomLogger
  * @package   MskalnyCustomLogger
  * @author    Maciej Skalny <mjskalny@gmail.com>
- * @copyright 2019 Copyright (c) mskalny
  */
 -->
 <container xmlns="http://symfony.com/schema/dic/services"
            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
            xsi:schemaLocation="http://symfony.com/schema/dic/services http://symfony.com/schema/dic/services/services-1.0.xsd">
     <services>
-        <service id="mskalny.custom_logger" class="SwagCustomLogger\Services\Logger">
+        <service id="mskalny.custom_logger" class="MskalnyCustomLogger\Services\Logger">
             <argument>custom_logger</argument>
             <argument>%shopware.app.rootdir%</argument>
         </service>

@@ -2,9 +2,8 @@
 <!--
 /**
  * @category  CustomLogger
- * @package   SwagCustomLogger
+ * @package   MskalnyCustomLogger
  * @author    Maciej Skalny <mjskalny@gmail.com>
- * @copyright 2019 Copyright (c) mskalny
  */
 -->
 <plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"

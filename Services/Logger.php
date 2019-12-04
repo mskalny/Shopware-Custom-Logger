@@ -1,9 +1,8 @@
 <?php
 /**
  * @category  CustomLogger
- * @package   SwagCustomLogger
+ * @package   MskalnyCustomLogger
  * @author    Maciej Skalny <mjskalny@gmail.com>
- * @copyright 2019 Copyright (c) mskalny
  */
 
 namespace MskalnyCustomLogger\Services;
@@ -15,7 +14,7 @@ use Monolog\Handler\StreamHandler;
 /**
  * Class Logger
  *
- * @package SwagCustomLogger\Services
+ * @package MskalnyCustomLogger\Services
  */
 class Logger extends MonologLogger
 {
