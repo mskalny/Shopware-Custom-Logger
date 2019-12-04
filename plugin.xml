@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+/**
+ * @category  CustomLogger
+ * @package   SwagCustomLogger
+ * @author    Maciej Skalny <mjskalny@gmail.com>
+ * @copyright 2019 Copyright (c) mskalny
+ */
+-->
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/plugin.xsd">
+    <label lang="de">Benutzerdefinierte Logger</label>
+    <label lang="en">Custom Logger</label>
+    <version>1.0.0</version>
+    <copyright>(c) mskalny</copyright>
+    <link>https://github.com/mskalny</link>
+    <author>mskalny</author>
+</plugin>
